@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+table{
+	width : 100vw;
+	height : 20vh;
+	border : 0.5vw solid aqua;
+}
+th{
+	text-align : left;
+	border : 2px solid black;
+}
+thead{
+	background : black;
+	color : white
+}
+td{
+	background : pink;
+	text-align : left;
+}
